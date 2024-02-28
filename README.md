@@ -1,6 +1,6 @@
-# Face Detection App
+# Mood Mirror App
 
-The Face Detection App is a web application that uses HTML, CSS, and JavaScript to capture and analyze facial expressions in real-time. This app utilizes a web browser's built-in camera functionality to access the user's webcam and process the video feed to detect facial features and emotions.
+The Mood Mirror App is a face Detection App is a web application that uses HTML, CSS, and JavaScript to capture and analyze facial expressions in real-time. This app utilizes a web browser's built-in camera functionality to access the user's webcam and process the video feed to detect facial features and emotions.
 
 ## Features
 
